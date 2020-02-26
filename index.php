@@ -8,5 +8,10 @@
 <body>
     <h1>hello world</h1>
     <p>asdlkfasldfjka;sljfa;lskjf;alsjkf;alskjf;laksjfl;ksajflakjsflksajfl;askj</p>
+    <ul>
+    <li>satu</li>
+    <li>dua</li>
+    <li>tiga</li>
+    </ul>
 </body>
 </html>
